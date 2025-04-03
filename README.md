@@ -2,7 +2,7 @@
 
 **`Software Engineering Student and Informatics Technician`**
 
-I am Pedro Henrique Contardi Soler, a Software Engineering student at PUC Campinas and a qualified Informatics Technician. I have experience in Python, Computer Vision, Arduino, HTML, CSS, and the Office Suite. I develop projects that integrate software and hardware, focusing on innovative and efficient solutions. Additionally, I possess skills in organization, teamwork, leadership, and entrepreneurship, as well as advanced English, and I am constantly seeking opportunities to apply my knowledge in creating technological solutions. You can connect with me on LinkedIn [Pedro Henrique Contardi Soler](https://www.linkedin.com/in/pedro-henrique-contardi-soler/) and follow me on Instagram at [solerpedroo](https://www.instagram.com/solerpedroo/).
+I am Pedro Henrique Contardi Soler, a Software Engineering student at PUC Campinas and a qualified Informatics Technician. I have experience in Python, Computer Vision, Arduino, HTML, CSS, and the Office Suite. I develop projects that integrate software and hardware, focusing on innovative and efficient solutions. Additionally, I possess skills in organization, teamwork, leadership, and entrepreneurship, as well as advanced English, and I am constantly seeking opportunities to apply my knowledge in creating technological solutions. You can connect with me on LinkedIn at [Pedro Henrique Contardi Soler](https://www.linkedin.com/in/pedro-henrique-contardi-soler/) and follow me on Instagram at [solerpedroo](https://www.instagram.com/solerpedroo/).
 
 <p align="left">
     <a>
