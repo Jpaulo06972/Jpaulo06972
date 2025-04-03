@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Pedro Henrique Contardi Soler Soler
+# 👨🏻‍💻 Pedro Henrique Contardi Soler
 
 **`Software Engineering Student and Informatics Technician`**
 
