@@ -65,7 +65,7 @@ Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Ind�
     title="Controladores Lógicos Programáveis"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/siemens/siemens-original.svg" 
+    src="https://img.icons8.com/external-filled-outline-perfect-kalash/64/000000/external-plc-industry-filled-outline-perfect-kalash.png"
 />
 <img 
     align="left" 
