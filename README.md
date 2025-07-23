@@ -130,4 +130,4 @@ Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Ind�
 
 - **Organizador** - Java + MySQL
 
-> *"Transformando linhas de código em soluções industriais eficientes"*
+
