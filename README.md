@@ -83,6 +83,62 @@ Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Ind�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="OpenCV" 
+    title="OpenCV"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Anaconda" 
+    title="Anaconda"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Visual Studio" 
+    title="Visual Studio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Windows 11" 
+    title="Windows 11"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
 
 <br/>
 <br/>
