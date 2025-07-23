@@ -69,14 +69,6 @@ Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Ind�
 />
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
