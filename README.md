@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software | Técnico em Indústria 4.0`**
 
-Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Indústria 4.0 pelo Colégio Técnico de Campinas - Unicamp. Possuo experiência em desenvolvimento Python, automação industrial com CLPs, bancos de dados MySQL e programação Java. Atuo no desenvolvimento de soluções que integram software e automação industrial, com foco em eficiência e inovação. Minhas habilidades incluem trabalho em equipe, proatividade e resolução de problemas. Você pode me conectar no LinkedIn e me seguir no GitHub.
+Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Indústria 4.0 pelo Colégio Técnico de Campinas - Unicamp. Possuo experiência em desenvolvimento Python, automação industrial com CLPs, bancos de dados MySQL e programação Java. Atuo no desenvolvimento de soluções que integram software e automação industrial, com foco em eficiência e inovação. Minhas habilidades incluem trabalho em equipe, proatividade e resolução de problemas. Você pode me conectar no LinkedIn em [João Paulo Ferreira](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-6a1ab8328/) e me seguir no GitHub.
 
 <p align="left">
     <a>
@@ -10,9 +10,9 @@ Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Ind�
         src="https://custom-icon-badges.demolab.com/badge/Campinas-SP-0A3871?style=for-the-badge&logo=location&logoColor=white" alt="Campinas-SP"
         />
     </a>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-6a1ab8328/">
         <img 
-            src="https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-6a1ab8328/"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSource=feather"
         />
     </a> 
     <a href="https://github.com/Jpaulo06972?tab=repositories&sort=stargazers" target = "_blank">
@@ -127,6 +127,7 @@ Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Ind�
 ### 📚 Projetos Destacados
 - **ProjetoIntegrador** - Python + MySQL
 - **Jogo_Adivinha** - Python
+
 - **Organizador** - Java + MySQL
 
 > *"Transformando linhas de código em soluções industriais eficientes"*
