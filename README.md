@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software | Técnico em Indústria 4.0`**
 
-Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Indústria 4.0 pelo Colégio Técnico de Campinas - Unicamp. Possuo experiência em desenvolvimento Python, automação industrial com CLPs, bancos de dados MySQL e programação Java. Atuo no desenvolvimento de soluções que integram software e automação industrial, com foco em eficiência e inovação. Minhas habilidades incluem trabalho em equipe, proatividade e resolução de problemas. Você pode me conectar no LinkedIn em [João Paulo Ferreira](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-6a1ab8328/) e me seguir no GitHub.
+Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Indústria 4.0 pelo Colégio Técnico de Campinas - Unicamp. Possuo experiência em Python, Java, Lua, automação industrial com CLPs e bancos de dados MySQL. Atuo no desenvolvimento de soluções que integram software e automação industrial, com foco em eficiência e inovação. Minhas habilidades incluem trabalho em equipe, proatividade e resolução de problemas. Você pode me conectar no LinkedIn em [João Paulo Ferreira](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-6a1ab8328/) e me seguir no GitHub.
 
 <p align="left">
     <a>
