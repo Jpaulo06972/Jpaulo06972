@@ -137,9 +137,10 @@ Sou João Paulo Ferreira, estudante de Engenharia de Software e técnico em Ind�
 
 ### 🏭 Habilidades Principais
 - **Desenvolvimento Python** para automação industrial
-- **Programação Java** para sistemas embarcados
+- **Programação C** para sistemas embarcados
+- **Programação Java** para desenvolvimento algoritmos
 - **Bancos de dados MySQL** para sistemas supervisórios
-- **Programação de CLPs** (Siemens, Allen-Bradley)
+- **Programação de CLPs** (Hi Tecnologia, Siemens)
 - **Integração IoT** em ambientes industriais
 - **Desenvolvimento de IHMs** (Interface Homem-Máquina)
 
